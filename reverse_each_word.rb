@@ -11,3 +11,29 @@ Start by creating a new variable that is going to now carry the next steps with 
 That array can now be iterated. The "word" is going to be iterated. End method.
 Return new array as a string.
 =end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
